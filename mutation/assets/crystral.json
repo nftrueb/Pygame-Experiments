@@ -1,0 +1,34 @@
+{ "frames": {
+   "crystral 0.png": {
+    "frame": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   },
+   "crystral 1.png": {
+    "frame": { "x": 25, "y": 0, "w": 25, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 25 },
+    "sourceSize": { "w": 25, "h": 25 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.30",
+  "image": "crystral.png",
+  "format": "RGBA8888",
+  "size": { "w": 50, "h": 25 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
